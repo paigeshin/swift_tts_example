@@ -1,6 +1,6 @@
 # swift_tts_example
 
-https://github.com/proscus0706/swift_tts_example/tree/master
+https://www.notion.so/swift-TTS-2f446c24677546ab97a0e81b3d8e840a
 
 
     //
